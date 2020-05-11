@@ -1,0 +1,1 @@
+console.log("gia tri:",5+6);
